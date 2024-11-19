@@ -33,4 +33,5 @@ void main() {
 
   // Accessing methods from both base and derived classes
   car.displayCarInfo();
+  car.displayInfo();
 }
