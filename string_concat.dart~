@@ -1,0 +1,105 @@
+Welcome to the Emacs shell
+
+c:/Users/E-mobile Office/Documents/learn dart $ ll
+ll: command not found
+c:/Users/E-mobile Office/Documents/learn dart $ cls
+cls: command not found
+c:/Users/E-mobile Office/Documents/learn dart $ cls
+cls: command not found
+c:/Users/E-mobile Office/Documents/learn dart $ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c:/Users/E-mobile Office/Documents/learn dart $ 
+c:/Users/E-mobile Office/Documents/learn dart $ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c:/Users/E-mobile Office/Documents/learn dart $ 
+c:/Users/E-mobile Office/Documents/learn dart $ dart string_man.dart
+string_man.dart:2:32: Error: Expected ';' after this.
+  print("This is the beginning")
+                               ^
+c:/Users/E-mobile Office/Documents/learn dart $ cls
+cls: command not found
+c:/Users/E-mobile Office/Documents/learn dart $ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c:/Users/E-mobile Office/Documents/learn dart $ 
+c:/Users/E-mobile Office/Documents/learn dart $ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c:/Users/E-mobile Office/Documents/learn dart $ 
+c:/Users/E-mobile Office/Documents/learn dart $ dart string_man.dart
+string_man.dart:2:32: Error: Expected ';' after this.
+  print("This is the beginning")
+                               ^
+c:/Users/E-mobile Office/Documents/learn dart $ dart string_man.dart
+This is the beginning
+c:/Users/E-mobile Office/Documents/learn dart $ 
